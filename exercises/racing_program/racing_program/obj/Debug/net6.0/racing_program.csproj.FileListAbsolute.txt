@@ -1,0 +1,15 @@
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\bin\Debug\net6.0\racing_program.exe
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\bin\Debug\net6.0\racing_program.deps.json
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\bin\Debug\net6.0\racing_program.runtimeconfig.json
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\bin\Debug\net6.0\racing_program.dll
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\bin\Debug\net6.0\racing_program.pdb
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.csproj.AssemblyReference.cache
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.AssemblyInfoInputs.cache
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.AssemblyInfo.cs
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.csproj.CoreCompileInputs.cache
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.dll
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\refint\racing_program.dll
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.pdb
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\racing_program.genruntimeconfig.cache
+D:\Practice\C#_for_publishing_to_GitHub(to_check)\Exercise\racing_program\racing_program\obj\Debug\net6.0\ref\racing_program.dll
